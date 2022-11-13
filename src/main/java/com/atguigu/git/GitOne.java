@@ -10,5 +10,6 @@ public class GitOne {
         System.out.println("hot-fix");
         System.out.println("push test");
         System.out.println("ssh test");
+        System.out.println("pull test");
     }
 }
