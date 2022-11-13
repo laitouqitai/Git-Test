@@ -8,5 +8,6 @@ public class GitOne {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
